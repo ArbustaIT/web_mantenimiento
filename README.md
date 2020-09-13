@@ -1,4 +1,3 @@
-# Landing Page para mantenimiento y cuentas regresivas
+# Rama para lanzamiento de Odoo v13
 
-Página para prueba y experimentación, que también usamos para redirigir en caso de mantenimiento de servidores, actualización de herramientas, etc.
-Creamos también la rama odoo_launch para jugar con una cuenta regresiva y la actualización de Odoo a v13.
+Adaptamos la página para jugar con una cuenta regresiva para la implementación de la v13 de Odoo.
